@@ -22,7 +22,8 @@ This project is my **first step** in learning programming, compiling, and pushin
 2. Compile the program:
    ```bash
    gcc todo.c -o todo
-3. 	Run the program:
+3. Run the program:
+   ```bash
    ./todo
 
 
